@@ -5,3 +5,5 @@
 - My name is João Moura, i am from Bahia, Brazil.
 
 - At the moment, i'm economics and data science student.
+
+- Checkout my linkedin 😉
