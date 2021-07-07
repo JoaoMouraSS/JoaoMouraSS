@@ -7,3 +7,5 @@
 - At the moment, i'm economics and data science student.
 
 - Checkout my linkedin 😉
+
+- 🇧🇷 🇺🇸 🇫🇷
