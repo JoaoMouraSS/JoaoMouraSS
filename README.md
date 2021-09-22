@@ -2,7 +2,7 @@ Hello friend there is my GitHub account. Here i post some projects, documents an
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaomouras/)
 
-A litlle about me:
+A little about me:
 
 I'm from Bahia, state of Brazil. In my free time i running (I will participate a marathon), ride bike and pratic boxing.
 I, really, love read books and watch series, like Big Bang Theory, Brooklyn 99 ...
