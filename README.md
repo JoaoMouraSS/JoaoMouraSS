@@ -10,4 +10,4 @@ I, really, love read books and watch series, like Big Bang Theory, Brooklyn 99 .
 About my academic background:
 
 Nowadays i studing economics science at Universidade Estadual De Santa Cruz and computer science at Universidade Cruzeiro Do Sul. Besides this, i take some extras curses about Data with focus on BI, data analisys, data science and data Eng.
-I feel very happy when i challenge me with problems related machine learn, data and business.
+I feel very happy (and a little stressed) when i challenge me with problems related machine learn, data and business.
