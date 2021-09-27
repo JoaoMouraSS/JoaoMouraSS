@@ -1,4 +1,4 @@
-Hello friend there is my GitHub account. Here i post some projects, documents and pratices. Fell free to contact me on my linkedin.
+Hello friend, here i post some projects, documents and pratices. Fell free to contact me on my linkedin.
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaomouras/)
 
