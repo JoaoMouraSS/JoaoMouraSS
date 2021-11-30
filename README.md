@@ -2,7 +2,7 @@ Hello friend, here i post some projects, documents and pratices. Fell free to co
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaomouras/)
-[<img src="https://user-images.githubusercontent.com/79487602/144090737-7f911ece-2cab-4080-95f7-e6e140d8d6f3.png" />](https://www.kaggle.com/joaomouras)
+[<img src="https://user-images.githubusercontent.com/79487602/144090964-c0701769-9de2-4e5f-9ef5-1d54d94b7ac3.png"/>](https://www.kaggle.com/joaomouras)
 
 
 A little about me:
