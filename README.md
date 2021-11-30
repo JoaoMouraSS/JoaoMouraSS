@@ -1,6 +1,9 @@
-Hello friend, here i post some projects, documents and pratices. Fell free to contact me on my linkedin.
+Hello friend, here i post some projects, documents and pratices. Fell free to contact me on my linkedin and my Kaggle (place that i am more active)
+
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/joaomouras/)
+[<img src="![image](https://user-images.githubusercontent.com/79487602/144090320-215592ad-e3c8-4e51-aa27-785eb74fb98f.png)" />](https://www.kaggle.com/joaomouras)
+
 
 A little about me:
 
