@@ -1,4 +1,4 @@
-Hello, my name is João Moura. Here, on github, i post some projects, code, documents, pratices and models that i made for competition on kaggle. Fell free to contact me on my linkedin, Kaggle or e-mail.
+Hello, my name is João Moura. Here, on github, i post some projects, codes, documents, pratices and models that i made for competition on kaggle. Fell free to contact me on my linkedin, Kaggle or e-mail.
 
 A little about me: I'm from Bahia, state of Brazil. Today i have 22 years old. In my free time i running (I will participate a marathon), ride bike and pratic boxing. Anothers things that i like to do is read books and watch series, like Big Bang Theory and Brooklyn 99.
 
